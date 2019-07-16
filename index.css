@@ -10,7 +10,6 @@ body {
   /* your properties here */
   display: grid;
   grid-template: repeat(4, 1fr) / repeat(3, 1fr); /* rows / columns */
-  grid-auto-rows: 50px;
 }
 
 .grid-item {
